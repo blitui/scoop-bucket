@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blitui/blit/releases/download/v0.1.0/blit_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/blitui/blit/releases/download/v0.1.1/blit_0.1.1_windows_amd64.zip",
             "bin": [
                 "blit.exe"
             ],
-            "hash": "bc4d873f864e1866f942b8856a7f987ce9ebce02b3dcdfd04e2ed1b3e7b8f7f3"
+            "hash": "badaa5d0ab03806560947811ba04f698d64a7ed792bfed3534fa202dac2cb4d3"
         },
         "arm64": {
-            "url": "https://github.com/blitui/blit/releases/download/v0.1.0/blit_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/blitui/blit/releases/download/v0.1.1/blit_0.1.1_windows_arm64.zip",
             "bin": [
                 "blit.exe"
             ],
-            "hash": "17d5f8ffe0da1b89b45d02a38fece3ac1b3ba94bf9f08377a525e7407d8db482"
+            "hash": "6839f015a0e39fffdc53a10ea11503cb3bcb973b5bbdc2be93dd9172a0442d90"
         }
     },
     "homepage": "https://github.com/blitui/blit",
