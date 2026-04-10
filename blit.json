@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/blitui/blit/releases/download/v0.1.0/blit_0.1.0_windows_amd64.zip",
+            "bin": [
+                "blit.exe"
+            ],
+            "hash": "bc4d873f864e1866f942b8856a7f987ce9ebce02b3dcdfd04e2ed1b3e7b8f7f3"
+        },
+        "arm64": {
+            "url": "https://github.com/blitui/blit/releases/download/v0.1.0/blit_0.1.0_windows_arm64.zip",
+            "bin": [
+                "blit.exe"
+            ],
+            "hash": "17d5f8ffe0da1b89b45d02a38fece3ac1b3ba94bf9f08377a525e7407d8db482"
+        }
+    },
+    "homepage": "https://github.com/blitui/blit",
+    "license": "MIT",
+    "description": "CLI for blit — the pragmatic Go TUI toolkit"
+}
